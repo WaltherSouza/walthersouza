@@ -9,9 +9,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-), JavaScript, TypeScript, PHP."];
-  bibliotecas = [""];
-  frameworks = ["Seus frameworks"];
+  linguagens = ["Python, JavaScript, TypeScript, PHP."];
+  bibliotecas e frameworks = ["React, Angular, Flutter, Vue.js, Bootstrap, Node.js"];
 }
 ```
