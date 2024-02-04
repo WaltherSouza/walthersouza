@@ -1,6 +1,8 @@
 ## 🚀 Sobre mim
 Olá me chamo Walter Souza, Sou Desenvolvedor Full-Stack especialista em Back-End.
 Desejo usar minha logica de progamação para solucionar os problemas que existem no nosso cotidiano!
+Objetivo de amarzenar projetos complexos de logica de progamação e orientação a objetos.
+GitHub de estudos com diversos projetos https://github.com/walterhml
 
 
 
